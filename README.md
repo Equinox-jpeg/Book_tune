@@ -12,10 +12,3 @@ User: user@test.com / password
 
 Premium: premium@test.com / password
 
-When logged in, click 📚 Add Book in the header:
-
-Fill in title/author/description
-
-Optional: check “Premium”, or put [Premium] in the title to auto-mark
-
-Optional: upload a cover (stored in images/uploads/)
